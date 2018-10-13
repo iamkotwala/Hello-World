@@ -1,2 +1,2 @@
 # Small-Codes
-Just figurung how to using git.
+Just figuring how to using git.
